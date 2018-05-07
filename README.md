@@ -1,0 +1,1 @@
+# ShadowsocksR-4.7.0-win
